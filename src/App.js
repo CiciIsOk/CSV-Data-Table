@@ -16,7 +16,6 @@ import {
 import FileUploadIcon from "@mui/icons-material/FileUpload";
 import { makeStyles } from "@mui/styles";
 import EmptyTableIcon from "./EmptyTableIcon";
-//import { DataGrid } from '@mui/x-data-grid';
 
 const useStyles = makeStyles({
   body: {
@@ -45,7 +44,6 @@ const useStyles = makeStyles({
     margin: "10px",
     textDecoration: "underline #678cdc 2px",
     textTransform: "uppercase",
-    //background: "rgba(0,0,0,0.13)"
   },
 
   tableHeader: {

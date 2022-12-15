@@ -1,6 +1,5 @@
 import { Box, Typography } from "@mui/material";
 import { makeStyles } from "@mui/styles";
-import DriveFolderUploadIcon from "@mui/icons-material/DriveFolderUpload";
 import React from "react";
 
 const useStyles = makeStyles({
