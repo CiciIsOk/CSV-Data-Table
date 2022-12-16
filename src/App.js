@@ -28,7 +28,6 @@ const useStyles = makeStyles({
     height: "100%",
     width: "100%",
     boxSizing: "border-box",
-    backgroundColor: "rgba(152,101,192,0.18)",
   },
 
   title: {
