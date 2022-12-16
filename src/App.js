@@ -128,6 +128,7 @@ function App() {
             minWidth: 800,
             width: "100%",
             position: "relative",
+            border: "1px solid rgba(21,13,13,0.1)",
           }}
         >
           {parsedData.length <= 0 ? (
